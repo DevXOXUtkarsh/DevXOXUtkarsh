@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dev_uk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_uk01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/piyush mods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyush mods" height="30" width="40" /></a>
+<a href="https://instagram.com/dev_utkarsh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_utkarh01" height="30" width="40" /></a>
+<a href="https://youtube.com/@piyushmods123?si=jm4i8mPjQejEVxut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyush mods" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
