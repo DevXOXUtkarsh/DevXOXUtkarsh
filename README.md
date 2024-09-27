@@ -1,4 +1,4 @@
-<img src="https://github.com/DevXOXUtkarsh/DevXOXUtkarsh/blob/main/Banner.jpg" alt="Banner" width="1200" height="300">
+<img src="https://github.com/DevXOXUtkarsh/DevXOXUtkarsh/blob/main/Banner.jpg" alt="Banner" width="1200" height="600">
 
 <h1 align="center">Hi there, I'm Utkarsh</h1>
 <h3 align="center">STUDENT...</h3>
