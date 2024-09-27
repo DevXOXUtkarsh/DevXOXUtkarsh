@@ -1,6 +1,6 @@
 ![logo]( https://github.com/DevXOXUtkarsh/DevXOXUtkarsh/blob/main/Banner.jpg)
 <h1 align="center">Hi there, I'm Utkarsh</h1>
-<h3 align="center">A stutent learning full-stack developer from India</h3>
+<h3 align="center">STUDENT...</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlmcTVuMG43emlibTgwMjU0MmxzYW95OTFkdjd4d25qZzVsMDZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devxoxutkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="devxoxutkarsh" /> </p>
 
